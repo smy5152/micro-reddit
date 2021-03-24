@@ -70,9 +70,9 @@ rails console
 
 🧑‍💻 **Varun**
 
-- GitHub: [@smy5152](https://github.com/smy5152)
-- Twitter: [@smy5152](https://twitter.com/smy5152)
-- LinkedIn: [Shabbir Yamani](https://www.linkedin.com/in/shabbirmyamani/)
+- GitHub: [@Varun2323](https://github.com/Varun2323)
+- Twitter: [@Varun2323]()
+- LinkedIn: [Varun Sharma]()
 
 ## 🤝 Contributing
 
